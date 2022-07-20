@@ -1,0 +1,27 @@
+
+body {  
+    margin-left: 10px;
+    margin-right: 10px; 
+    margin-top: 0;
+    /* background-color: #9be8e8; */
+  }
+  h1{   
+    background-color:DodgerBlue;
+    margin: 0;
+    padding-bottom: 15px;
+   
+  }
+  div{    
+    background-color: #00ffff;
+    height: 500px; 
+  }
+  p{
+    margin: 0;
+    padding-bottom: 15px;
+  }
+  #p {
+    background-color:#8a8383;
+  } 
+  #p2 {
+    background-color:#8a8383;
+  }

@@ -1,0 +1,14 @@
+body {
+    background-color: #00ffff;
+  }
+
+  h2{
+    text-decoration: line-through;
+  }
+  h3{
+    text-decoration: underline;
+  }
+  h4{
+    font-weight: bold; 
+  }
+ 

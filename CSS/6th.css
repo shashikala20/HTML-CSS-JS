@@ -1,0 +1,12 @@
+
+table, th, td {
+    border: 1px solid green;
+  }
+  th {
+    color: white;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  td {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
